@@ -7,3 +7,13 @@ destroys the aliens. If the player shoots all the aliens, a new fleet
 appears that moves faster than the previous fleet. If any alien hits
 the player’s ship or reaches the bottom of the screen, the player
 loses a ship. If the player loses three ships, the game ends.
+
+How to play
+===========
+
+Prerequisite: Python 3
+1. Open a terminal window inside the folder "alien invasion"
+2. Execute the "alien_invasion.py" file:
+	python alien_invasion.py
+3. Play the game!
+3. Press 'q' to quit.
